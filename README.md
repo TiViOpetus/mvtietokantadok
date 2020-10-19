@@ -1,0 +1,2 @@
+# mvtietokantadok
+Tietokantapalvelinharjoituksien dokumentaatio ja esimerkkikoodit
